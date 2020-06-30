@@ -1,0 +1,26 @@
+h1 {
+ font-size: 36px;
+
+}
+
+header {
+    background-color: coral;
+}
+
+main {
+    background-color: aqua;
+}
+
+a{
+    display: block;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: none;
+   
+}
+
+footer {
+    background-color: blueviolet;
+}
