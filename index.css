@@ -1,33 +1,29 @@
 h1 {
- font-size: 36px;
-
+  font-size: 36px;
 }
 
 body {
-    margin: 0px;
+  margin: 0px;
+  font-size: xx-large;
 }
 
-
 header {
-    background-color: coral;
-   
-
+  background-color: coral;
 }
 
 main {
-    background-color: aqua;
+  background-color: aqua;
 }
 
-a{
-    display: block;
-    height: 75px;
-    line-height: 75px;
-    text-align: center;
-    font-size: 24px;
-    text-decoration: none;
-   
+a {
+  display: block;
+  height: 75px;
+  line-height: 75px;
+  text-align: center;
+  font-size: 24px;
+  text-decoration: none;
 }
 
 footer {
-    background-color: blueviolet;
+  background-color: blueviolet;
 }
