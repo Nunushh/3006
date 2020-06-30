@@ -3,8 +3,15 @@ h1 {
 
 }
 
+body {
+    margin: 0px;
+}
+
+
 header {
     background-color: coral;
+   
+
 }
 
 main {
